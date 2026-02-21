@@ -1,18 +1,16 @@
 # Formal Verification of a Realistic Compiler — CompCert
-**Paper Report & Viva · Programming Languages: Principles, Design and Implementation (Extended)**  
-University of Birmingham · 2025/26
 
 ---
 
 ## Overview
 
-A critical report and viva presentation on:
+A critical report and presentation on:
 
 > Xavier Leroy. *Formal Verification of a Realistic Compiler.*  
 > Communications of the ACM, 52(7), 2009.  
 > [Read the paper](https://dl.acm.org/doi/10.1145/1538788.1538814)
 
-This was completed as part of an extended Masters-level module involving independent paper analysis, written critique, and an oral viva examination.
+This was completed as part of an extended Masters-level module involving independent paper analysis, written critique, and an oral viva examination. Please note that the final report and presentation are not uploaded, however further research after has been included.
 
 ---
 
@@ -20,9 +18,9 @@ This was completed as part of an extended Masters-level module involving indepen
 
 | File | Description |
 |---|---|
-| [`report.pdf`](./report.pdf) | 2-page critical report on the paper |
-| [`viva_slides.pdf`](./viva_slides.pdf) | Presentation slides used in viva examination |
-| [`leroy_2009_compcert.pdf`](./leroy_2009_compcert.pdf) | Original paper (Xavier Leroy, CACM 2009) |
+| [`Paper Analysis`](./compcert_paper.docx) | Analysis of Paper |
+| [`viva_slides.pdf`](./PresentationCompCert.pdf) | SlideSet |
+| [`leroy_2009_compcert.pdf`](./CompcertPaper.pdf) | Original paper (Xavier Leroy, CACM 2009) |
 
 ---
 
@@ -43,8 +41,3 @@ The paper addresses a fundamental gap in software verification: even formally ve
 
 ---
 
-## Module Context
-
-**Module:** Programming Languages: Principles, Design and Implementation (Extended)  
-**Level:** Masters (Year 4)  
-**Format:** Independent paper study + written report + oral viva
